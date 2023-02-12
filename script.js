@@ -7,7 +7,7 @@ const onGenerateSubmit = (e) => {
 
   clearUI();
 
-  const txt="Name : Juice, Qty:100 ml, Price:Rs.100"
+  const txt="Name : Juice, Qty:100 ml, Price:Rs.100, Manufactured By: M005, Shipped by: M005 to 3rd party seller 2003"
   const size = 100
 
   // Validate url
